@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 406" role="img" aria-labelledby="title">
+<title id="title">A2. Управление записью</title>
+<rect width="820" height="406" fill="#ffffff"/>
+<g font-family="Arial, sans-serif" fill="#252a34">
+<rect x="143" y="115" width="180" height="67" fill="#f3f6fb" stroke="#5d687a" stroke-width="1.5"/>
+<text x="233" y="142.1" font-size="16" text-anchor="middle" font-weight="bold">Проверить доступ</text>
+<text x="233" y="160.82" font-size="16" text-anchor="middle" font-weight="bold">и запрос</text>
+<text x="315" y="175" font-size="12" text-anchor="end" font-weight="bold">A21</text>
+<rect x="355" y="205" width="198" height="72" fill="#f3f6fb" stroke="#5d687a" stroke-width="1.5"/>
+<text x="454" y="234.6" font-size="16" text-anchor="middle" font-weight="bold">Изменить запись</text>
+<text x="454" y="253.32" font-size="16" text-anchor="middle" font-weight="bold">в рамках транзакции</text>
+<text x="545" y="270" font-size="12" text-anchor="end" font-weight="bold">A22</text>
+<rect x="604" y="303" width="193" height="66" fill="#f3f6fb" stroke="#5d687a" stroke-width="1.5"/>
+<text x="700.5" y="329.6" font-size="16" text-anchor="middle" font-weight="bold">Показать актуальное</text>
+<text x="700.5" y="348.32" font-size="16" text-anchor="middle" font-weight="bold">состояние записи</text>
+<text x="789" y="362" font-size="12" text-anchor="end" font-weight="bold">A23</text>
+<text x="199" y="27" font-size="14" text-anchor="middle" font-weight="bold">C1</text>
+<polyline points="199,35 199,115" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="199,115 203,106 195,106"/>
+<text x="431" y="27" font-size="14" text-anchor="middle" font-weight="bold">C2</text>
+<polyline points="431,35 431,205" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="431,205 435,196 427,196"/>
+<polyline points="431,84 232,84 232,115" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="232,115 236,106 228,106"/>
+<circle cx="431" cy="84" r="2.6"/>
+<text x="14" y="130" font-size="15" text-anchor="start" >I2  Запрос</text>
+<polyline points="14,138 143,138" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="143,138 134,134 134,142"/>
+<text x="14" y="159" font-size="15" text-anchor="start" >Слоты и доступ</text>
+<polyline points="14,166 143,166" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="143,166 134,162 134,170"/>
+<text x="503" y="27" font-size="14" text-anchor="start" >Состояние результата</text>
+<polyline points="503,35 503,205" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="503,205 507,196 499,196"/>
+<polyline points="323,145 340,145 340,228 355,228" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="355,228 346,224 346,232"/>
+<text x="347" y="134" font-size="14" text-anchor="start" >Проверенный запрос</text>
+<polyline points="323,165 562,165 562,352 604,352" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="604,352 595,348 595,356"/>
+<text x="443" y="157" font-size="14" text-anchor="start" >Отказ проверки</text>
+<polyline points="553,226 580,226 580,325 604,325" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="604,325 595,321 595,329"/>
+<text x="588" y="216" font-size="14" text-anchor="start" >Итог изменения</text>
+<polyline points="553,250 806,250" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="806,250 797,246 797,254"/>
+<text x="589" y="242" font-size="14" text-anchor="start" >Записи для напоминания</text>
+<polyline points="553,268 806,268" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="806,268 797,264 797,272"/>
+<text x="589" y="261" font-size="14" text-anchor="start" >Запись на защиту</text>
+<polyline points="797,324 813,324" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="813,324 804,320 804,328"/>
+<text x="813" y="316" font-size="14" text-anchor="end" font-weight="bold">O1</text>
+<polyline points="270,379 270,182" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="270,182 266,191 274,191"/>
+<text x="270" y="399" font-size="14" text-anchor="middle" font-weight="bold">M4</text>
+<polyline points="404,379 404,277" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="404,277 400,286 408,286"/>
+<polyline points="404,299 296,299 296,182" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="296,182 292,191 300,191"/>
+<circle cx="404" cy="299" r="2.6"/>
+<polyline points="404,379 741,379 741,369" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="741,369 737,378 745,378"/>
+<circle cx="404" cy="379" r="2.6"/>
+<text x="404" y="399" font-size="14" text-anchor="middle" font-weight="bold">M3</text>
+<polyline points="654,379 654,369" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="654,369 650,378 658,378"/>
+<text x="654" y="399" font-size="14" text-anchor="middle" font-weight="bold">M1</text>
+</g>
+</svg>

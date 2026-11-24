@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 540" role="img" aria-labelledby="title">
+<title id="title">A0. Функции системы</title>
+<rect width="820" height="540" fill="#ffffff"/>
+<g font-family="Arial, sans-serif" fill="#252a34">
+<rect x="141" y="99" width="190" height="66" fill="#f3f6fb" stroke="#5d687a" stroke-width="1.5"/>
+<text x="236" y="125.6" font-size="16" text-anchor="middle" font-weight="bold">Открыть и закрыть</text>
+<text x="236" y="144.32" font-size="16" text-anchor="middle" font-weight="bold">приём</text>
+<text x="323" y="158" font-size="12" text-anchor="end" font-weight="bold">A1</text>
+<rect x="350" y="217" width="204" height="67" fill="#f3f6fb" stroke="#5d687a" stroke-width="1.5"/>
+<text x="452" y="244.1" font-size="16" text-anchor="middle" font-weight="bold">Управлять записью</text>
+<text x="452" y="262.82" font-size="16" text-anchor="middle" font-weight="bold">на защиту</text>
+<text x="546" y="277" font-size="12" text-anchor="end" font-weight="bold">A2</text>
+<rect x="616" y="99" width="177" height="66" fill="#f3f6fb" stroke="#5d687a" stroke-width="1.5"/>
+<text x="704.5" y="125.6" font-size="16" text-anchor="middle" font-weight="bold">Уведомить</text>
+<text x="704.5" y="144.32" font-size="16" text-anchor="middle" font-weight="bold">участников</text>
+<text x="785" y="158" font-size="12" text-anchor="end" font-weight="bold">A3</text>
+<rect x="616" y="395" width="177" height="67" fill="#f3f6fb" stroke="#5d687a" stroke-width="1.5"/>
+<text x="704.5" y="422.1" font-size="16" text-anchor="middle" font-weight="bold">Зафиксировать</text>
+<text x="704.5" y="440.82" font-size="16" text-anchor="middle" font-weight="bold">результат защиты</text>
+<text x="785" y="455" font-size="12" text-anchor="end" font-weight="bold">A4</text>
+<text x="176" y="22" font-size="14" text-anchor="middle" font-weight="bold">C1</text>
+<polyline points="176,30 176,99" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="176,99 180,90 172,90"/>
+<text x="244" y="22" font-size="14" text-anchor="middle" font-weight="bold">C2</text>
+<polyline points="244,30 244,99" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="244,99 248,90 240,90"/>
+<text x="703" y="22" font-size="14" text-anchor="middle" font-weight="bold">C4</text>
+<polyline points="703,30 703,99" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="703,99 707,90 699,90"/>
+<text x="807" y="22" font-size="14" text-anchor="middle" font-weight="bold">C3</text>
+<polyline points="807,30 807,379 747,379 747,395" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="747,395 751,386 743,386"/>
+<polyline points="176,57 380,57 380,217" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="380,217 384,208 376,208"/>
+<circle cx="176" cy="57" r="2.6"/>
+<polyline points="380,73 591,73 591,365 661,365 661,395" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="661,395 665,386 657,386"/>
+<circle cx="380" cy="73" r="2.6"/>
+<polyline points="244,45 440,45 440,217" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="440,217 444,208 436,208"/>
+<circle cx="244" cy="45" r="2.6"/>
+<text x="12" y="124" font-size="14" text-anchor="start" font-weight="bold">I1</text>
+<polyline points="12,132 141,132" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="141,132 132,128 132,136"/>
+<text x="12" y="231" font-size="14" text-anchor="start" font-weight="bold">I2</text>
+<polyline points="12,239 350,239" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="350,239 341,235 341,243"/>
+<text x="12" y="425" font-size="14" text-anchor="start" font-weight="bold">I3</text>
+<polyline points="12,433 616,433" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="616,433 607,429 607,437"/>
+<text x="816" y="230" font-size="14" text-anchor="end" font-weight="bold">O1</text>
+<polyline points="554,238 816,238" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="816,238 807,234 807,242"/>
+<text x="816" y="118" font-size="14" text-anchor="end" font-weight="bold">O2</text>
+<polyline points="793,126 816,126" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="816,126 807,122 807,130"/>
+<text x="816" y="416" font-size="14" text-anchor="end" font-weight="bold">O3</text>
+<polyline points="793,424 816,424" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="816,424 807,420 807,428"/>
+<polyline points="331,120 616,120" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="616,120 607,116 607,124"/>
+<text x="514" y="111" font-size="14" text-anchor="middle" >D2  Событие приёма</text>
+<polyline points="331,145 340,145 340,260 350,260" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="350,260 341,256 341,264"/>
+<text x="346" y="187" font-size="13" text-anchor="start" font-weight="bold">D1</text>
+<polyline points="554,256 572,256 572,147 616,147" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="616,147 607,143 607,151"/>
+<text x="597" y="141" font-size="13" text-anchor="start" font-weight="bold">D3</text>
+<polyline points="554,272 577,272 577,409 616,409" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="616,409 607,405 607,413"/>
+<text x="568" y="389" font-size="13" text-anchor="end" font-weight="bold">D4</text>
+<polyline points="797,424 797,344 560,344 560,197 513,197 513,217" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="513,217 517,208 509,208"/>
+<circle cx="797" cy="424" r="2.6"/>
+<text x="623" y="334" font-size="14" text-anchor="start" >D5  Состояние результата</text>
+<polyline points="215,510 215,165" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="215,165 211,174 219,174"/>
+<polyline points="215,482 668,482 668,462" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="668,462 664,471 672,471"/>
+<circle cx="215" cy="482" r="2.6"/>
+<text x="215" y="529" font-size="14" text-anchor="middle" font-weight="bold">M2</text>
+<polyline points="400,510 400,284" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="400,284 396,293 404,293"/>
+<text x="400" y="529" font-size="14" text-anchor="middle" font-weight="bold">M1</text>
+<polyline points="473,510 473,284" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="473,284 469,293 477,293"/>
+<polyline points="473,492 283,492 283,165" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="283,165 279,174 287,174"/>
+<circle cx="473" cy="492" r="2.6"/>
+<polyline points="473,492 706,492 706,462" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="706,462 702,471 710,471"/>
+<polyline points="601,492 601,195 667,195 667,165" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="667,165 663,174 671,174"/>
+<circle cx="601" cy="492" r="2.6"/>
+<text x="473" y="529" font-size="14" text-anchor="middle" font-weight="bold">M3</text>
+<polyline points="550,510 550,300 516,300 516,284" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="516,284 512,293 520,293"/>
+<polyline points="550,503 315,503 315,165" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="315,165 311,174 319,174"/>
+<circle cx="550" cy="503" r="2.6"/>
+<polyline points="550,503 608,503 608,211 757,211 757,165" fill="none" stroke="#252a34" stroke-width="1.5" />
+<polygon points="757,165 753,174 761,174"/>
+<text x="550" y="529" font-size="14" text-anchor="middle" font-weight="bold">M4</text>
+</g>
+</svg>
